@@ -12,15 +12,10 @@
 # How to run?
 ### STEPS:
 
-Clone the repository
-
-```bash
-https://github.com/entbappy/End-to-end-Cell-Segmentation-Using-Yolo-v8
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cell python=3.8 -y
+conda create -n cell python=3.11 -y
 ```
 
 ```bash
@@ -49,16 +44,16 @@ open up you local host and port
 
 ## Save pass:
 
-S6tXzK7IxUHz9O/9jkhciLsseddeQ++E+OcD7nQYy8+ACRDtEgUW
+XXXXXXXXXXXXXXXXXXXX
 
 
 ## Run from terminal:
 
-docker build -t cellseg.azurecr.io/cell:latest .
+docker build -t xxx.xxxxx.x/cell:latest .
 
-docker login cellseg.azurecr.io
+docker login xxx.xxxxx.x
 
-docker push cellseg.azurecr.io/cell:latest
+docker push xxx.xxxxx.x/cell:latest
 
 
 ## Deployment Steps:
