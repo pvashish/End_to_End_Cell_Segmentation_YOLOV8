@@ -10,7 +10,7 @@ The Medical Diagnostics App is a cutting-edge project focused on precise white b
 
 - **YOLOv8-based Segmentation**: Developed an advanced YOLOv8-based app for precise 'white blood cell' segmentation. This breakthrough technology overcomes variations in cell appearances and sizes, ensuring accurate diagnostics in medical imaging. 🎯🔬🩸
 
-- **Streamlined Segmentation Pipeline**: Streamlined the white blood cell segmentation pipeline using Amazon SageMaker and an S3 bucket. This optimization enhances the efficiency of medical image analysis and empowers healthcare professionals to make prompt and accurate patient care decisions. ⚙️☁️💻
+- **Streamlined Segmentation Pipeline**: Streamlined the white blood cell segmentation pipeline using Azure. This optimization enhances the efficiency of medical image analysis and empowers healthcare professionals to make prompt and accurate patient care decisions. ⚙️☁️💻
 
 ## How to Use 📝🔧
 
