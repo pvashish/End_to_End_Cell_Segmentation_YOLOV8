@@ -4,6 +4,8 @@
 
 ## Project Overview 🚀
 
+![flowchart](https://github.com/pvashish/End_to_End_Cell_Segmentation_YOLOV8/blob/main/flowchart.png)
+
 The Medical Diagnostics App is a cutting-edge project focused on precise white blood cell segmentation, significantly improving medical diagnostics. Leveraging skills in AWS SageMaker ☁️, Computer Vision 👁️‍🗨️, MLOps ⚙️, YOLOv8 🎯, Azure ☁️, Docker 🐳, CI/CD development 🔄, GitHub Actions 🤖, and Flask 🌐, this app aims to revolutionize medical image analysis and enhance prompt patient care.
 
 ## Key Achievements 🏆
